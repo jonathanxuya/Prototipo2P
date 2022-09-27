@@ -1,0 +1,43 @@
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\ModuloContabilidadd.exe.config
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\ModuloContabilidadd.exe
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\ModuloContabilidadd.pdb
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\MetroFramework.Design.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\MetroFramework.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.Activos_Fijos.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.Activos.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.Cierre_Contable.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.ContenedorCF.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.Estados_Financieros.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.EstadosFinancieros.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.Form_1.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.MantenimientoPolizaContable.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.Mantenimientos.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.MantenimientoTipodeCuentas.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.Nuevo_Cierre.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.Polizas_Locales.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.Presupuestos.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.Properties.Resources.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.exe
+C:\Users\jonat\OneDrive\Documentos\Escritorio\ProyectoFinal4\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.pdb
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.ActivosFIjos.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.ContenedorCF.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.Properties.Resources.resources
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.exe
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\ModuloContabilidadd.pdb
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\ModuloContabilidadd.exe.config
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\ModuloContabilidadd.exe
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\ModuloContabilidadd.pdb
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\MetroFramework.Design.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\MetroFramework.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\ModuloContabilidadd\obj\Debug\CapaVista.csproj.CopyComplete

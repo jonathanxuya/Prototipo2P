@@ -1,0 +1,6 @@
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\jonat\OneDrive\Documentos\Escritorio\Copia proyecto FInal\proyectofinalasis222022\Codigo\Modulos\Contabilidad\CapaControlador\obj\Debug\CapaControlador.pdb
